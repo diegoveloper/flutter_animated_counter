@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/physics.dart';
 
+// This is an example extract from Flutter official doc: https://docs.flutter.dev/cookbook/animation/physics-simulation
+// We modified some values for our code
 class PhysicsCardDragDemo extends StatelessWidget {
   const PhysicsCardDragDemo({super.key});
 

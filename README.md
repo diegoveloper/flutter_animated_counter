@@ -2,6 +2,8 @@
 
 I created a custom animated widget with Animations, Gestures and Physics.
 
+## If you like the code, don't forget to star it :)
+
 # Inspiration
 
 https://dribbble.com/shots/16434514-Tally-Counter-Micro-Interaction
